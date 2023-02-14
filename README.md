@@ -8,8 +8,6 @@ task https://github.com/Shastel/reverse-int#readme
 ***
 
 
-
-
 # Reverse Int
 
 ## Task
