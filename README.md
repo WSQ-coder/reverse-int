@@ -2,7 +2,7 @@
 
 [JS/FE Pre-School 2022q4](https://github.com/rolling-scopes-school/tasks/tree/master/stage0)
 
-task https://github.com/Shastel/reverse-int#readme
+task from https://github.com/Shastel/reverse-int#readme
 ***
 
 ***
